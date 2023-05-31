@@ -1,0 +1,15 @@
+Defender-3-6-1-Gana 6 de armadura
+Turbo-3-8-1-Gana 8 de armadura
+Rápido-2-8-2-Golpea al enemigo con un ataque rápido infligiendo 8 de daño
+Cañón de Piedra-1-10-2-Perfora al enemigo con un proyectil impulsado a gran velocidad causando 10 de daño
+Bola de Fuego-1-8-2-Golpea al enemigo con una bola de fuego y le causa 8 de daño
+Patada Baja-2-8-2-Golpea al enemigo con una patada baja causando 8 de daño
+Salto-3-12-2-Gana 12 de armadura
+Fisión-1-12-3-Inflige 12 de daño
+Plasma Shock-1-15-3-Golpea al enemigo con un proyectil de plasma causandole 15 de daño
+Neutralizar-2-16-3-Inflige 16 de daño al enemigo
+Barrera-3-10-3-Gana 10 de armadura
+Eléctrico-1-15-3-Crea una potente descarga de electricidad que daña al enemigo infligiendo 15 de daño
+Perdición-2-20-4-Azota al enemigo con un fuerte ataque causando 20 de daño
+Sereno-3-18-4-Gana 18 de armadura
+Destripar-2-24-5-Ataca al enemigo varias veces en un ataque generando 24 de daño
